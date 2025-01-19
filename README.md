@@ -24,6 +24,7 @@ Social Media Content Analyzer is a web application that allows users to analyze 
    - Displays a loading spinner (Loader from lucide-react) while processing files.
 
 6. **User Interface**:
+   - Dark/Light mode toggle
    - Intuitive interface for uploading files and viewing results.
    - Displays extracted text and analysis in a user-friendly format.
   
