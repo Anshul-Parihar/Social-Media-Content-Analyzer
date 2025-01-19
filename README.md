@@ -80,6 +80,24 @@ The Social Media Content Analyzer was designed to make analyzing and improving s
 
 The application ensures robustness by handling diverse file types and providing detailed feedback. A visually engaging interface enhances usability, while modular components ensure scalability and maintainability.
 
+## Future Enhancements
+
+To make the project more robust and user-friendly, consider:
+
+**UI Improvements:**
+Add a progress bar for file processing.
+Enhance drag-and-drop with visual feedback.
+
+**Localization:**
+Support OCR for multiple languages in Tesseract.js.
+
+**Backend Support:**
+Offload text extraction and analysis to a backend service for heavy files.
+
+**User Data Persistence:**
+Save analysis history using local storage or a backend database.
+
+
 ## Contact
 
 If you want to contact me, you can reach me through below handles.
