@@ -78,3 +78,19 @@ https://anshul-parihar.github.io/Social-Media-Content-Analyzer/
 The Social Media Content Analyzer was designed to make analyzing and improving social media posts intuitive and efficient. Users upload files via drag-and-drop or file picker, ensuring a seamless experience. For text extraction, PDF files are parsed using `pdf.js`, leveraging its structured text capabilities. Images are processed through `tesseract.js`, enabling accurate OCR-based text recognition. Extracted text is then evaluated for engagement factors such as hashtags, mentions, emojis, word count, and questions. These metrics determine an overall engagement score. Based on the analysis, actionable suggestions like adding hashtags or emojis are provided to optimize the content's reach and interaction potential.
 
 The application ensures robustness by handling diverse file types and providing detailed feedback. A visually engaging interface enhances usability, while modular components ensure scalability and maintainability.
+
+## Contact
+
+If you want to contact me, you can reach me through below handles.
+
+[![linkedin](https://img.shields.io/badge/Anshul_Parihar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-parihar-8251a4206/)
+[![GitHub](https://img.shields.io/badge/Anshul_Parihar-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Anshul-Parihar)
+
+© 2025 Anshul Parihar
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
