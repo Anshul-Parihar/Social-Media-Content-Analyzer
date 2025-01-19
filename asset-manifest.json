@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Social-Media-Content-Analyzer/static/css/main.55d518dc.css",
+    "main.js": "/Social-Media-Content-Analyzer/static/js/main.2abad547.js",
+    "index.html": "/Social-Media-Content-Analyzer/index.html",
+    "main.55d518dc.css.map": "/Social-Media-Content-Analyzer/static/css/main.55d518dc.css.map",
+    "main.2abad547.js.map": "/Social-Media-Content-Analyzer/static/js/main.2abad547.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d518dc.css",
+    "static/js/main.2abad547.js"
+  ]
+}
